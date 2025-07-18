@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "pubmed": {
+      "command": "python",
+      "args": ["c:\\Users\\uribrown\\Dev Code\\PubMed MCP - UB\\server.py"],
+      "env": {
+        "PYTHONPATH": "c:\\Users\\uribrown\\Dev Code\\PubMed MCP - UB"
+      }
+    }
+  }
+}
