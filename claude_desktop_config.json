@@ -2,9 +2,9 @@
   "mcpServers": {
     "pubmed": {
       "command": "python",
-      "args": ["c:\\Users\\uribrown\\Dev Code\\PubMed MCP - UB\\server.py"],
+      "args": ["c:\\Users\\%username%\\Dev Code\\PubMed MCP - UB\\server.py"],
       "env": {
-        "PYTHONPATH": "c:\\Users\\uribrown\\Dev Code\\PubMed MCP - UB"
+        "PYTHONPATH": "c:\\Users\\%username%\\Dev Code\\PubMed MCP - UB"
       }
     }
   }
